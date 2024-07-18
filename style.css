@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(12, 6, 29);
+}
+
+.stats {
+    display: flex;
+    gap: 20px;
+    padding-left: 10px;
+    background: #2b1717;
+    color: rgba(255, 255, 255, 0.863);
+    font-family: "Inter", sans-serif;
+}
+
+.action {
+    padding: 20px;
+    padding-left: 5px;
+    display: flex;
+    gap: 10px;
+    background-color: #6d1e24;
+}
+
+.action .button {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: medium;
+    align-items: center;
+    padding: 10px;
+    color: bisque;
+    background-color: #151515;
+    border-radius: 10px;
+}
+
+.story {
+    background-color: #4d1419;
+    display: flex;
+    padding-left: 20px;
+    color: white;
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 500;
+    font-style: italic;
+}
