@@ -2,21 +2,39 @@ body {
     background-color: rgb(12, 6, 29);
 }
 
-.stats {
-    display: flex;
-    gap: 20px;
+.top {
+    background-color: #2b1717;
     padding-left: 10px;
-    background: #2b1717;
+}
+
+.main {
+    margin: auto;
+    width: 800px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.stats {
+    display: inline-flex;
     color: rgba(255, 255, 255, 0.863);
     font-family: "Inter", sans-serif;
+    align-items: first baseline;
+}
+
+.points {
+    padding-left: 5px;
+    padding-right: 20px;
 }
 
 .action {
     padding: 20px;
-    padding-left: 5px;
+    padding-left: 10px;
     display: flex;
     gap: 10px;
     background-color: #6d1e24;
+    margin:  auto;
 }
 
 .action .button {
@@ -38,4 +56,5 @@ body {
     font-family: "IBM Plex Serif", serif;
     font-weight: 500;
     font-style: italic;
+    letter-spacing: 2px;
 }

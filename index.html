@@ -7,27 +7,36 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <body>
-    <div>
-        <div>
-            <div class="stats">
-                <h3  id="XP">⚡: 0</h3>
-                <h3  id="HP">❤️: 100</h3>
-                <h3  id="$">💵: 69</h3>
+    <div class="main">
+        <div class="top">
+                <div class="stats">
+                    <h3>⚡:</h3>
+                    <h3 class="points" id="xp">0</h3>
+                </div>
+                <div class="stats">
+                    <h3>❤️:</h3>
+                    <h3 class="points" id="hp">100</h3>
+                </div>
+                <div class="stats">
+                    <h3>💵:</h3>
+                    <h3 class="points" id="money">69</h3>
+                </div>
+        </div>
+        <div class="story">
+            <p id="lore">lore</p>
         </div>
         <div class="action"> 
             <button class="action button" id="b1">Go to Store</button>
             <button class="action button" id="b2">Go to Cave</button>
-            <button class="action button" id="b3">Fight Dragon</button>
-        </div>
-        <div class="story">
-            <p>lore</p>
         </div>
     </div>
+    <script src="app.js"></script>
 </body>
 </html>
