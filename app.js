@@ -30,7 +30,7 @@ const story = {
       {
         text: "Set Up Camp:",
         outcome: endgame(),
-        effects: { xp: 0, hp: 0, money: 0 },
+        effects: { xp: 0, hp: 10, money: 20 },
       },
       {
         text: "Embark on the Journey",
