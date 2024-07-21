@@ -1,18 +1,24 @@
-let xp = document.getElementById("xp");
-let hp = document.getElementById("hp");
-let money = document.getElementById("money");
+let playerStats = { xp: 0, hp: 100, gold: 20 };
+
+$.each(playerStats, function(stat, value) {
+  $("#" + stat).text(value);
+});
+
+function xp(value) {
+  value = playerStats.xp;
+}
 
 const story = {
   chapter1: {
-    text:
-      "The protagonist, Alex, is a young adventurer living in the peaceful village of Eldoria. \n" +
-      "One day, a mysterious stranger arrives with tales of a great evil rising in the distant lands of Noxterra. \n" +
-      "The stranger gives Alex a choice: stay in Eldoria and ignore the threat or embark on a journey to defeat the evil.",
+    line:
+          "The protagonist, Alex, is a young adventurer living in the peaceful village of Eldoria.<br><br>" +
+          "One day, a mysterious stranger arrives with tales of a great evil rising in the distant lands of Noxterra.<br><br>" +
+          "The stranger gives Alex a choice: stay in Eldoria and ignore the threat or embark on a journey to defeat the evil.",
     choices: [
       {
         text: "Stay in Eldoria",
-        outcome: endgame(),
-        effects: { xp: 0, hp: 0, money: 0 },
+        outcome: "endgame()",
+        effects: xp(10),
       },
       {
         text: "Embark on the Journey",
@@ -21,22 +27,13 @@ const story = {
         effects: { xp: 50, hp: 0, money: 0 },
       },
     ],
-  },
-  chapter2: {
-    text:
-      "Alex leaves Eldoria and ventures into the Whispering Woods, a place known for its dangers and mysteries. \n" +
-      "As night falls, Alex must decide whether to set up camp or press on through the night.",
-    choices: [
-      {
-        text: "Set Up Camp:",
-        outcome: endgame(),
-        effects: { xp: 0, hp: 10, money: 20 },
-      },
-      {
-        text: "Embark on the Journey",
-        outcome: endgame(),
-        effects: { xp: 50, hp: 0, money: 0 },
-      },
-    ],
-  },
+  }
 };
+
+
+$("#btn1").click(function() {
+  $("#lore").html(story.chapter1.line).slideDown(3000);
+});
+
+
+console.log(story.chapter1.text);

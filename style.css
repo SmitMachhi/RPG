@@ -13,7 +13,8 @@ body {
     flex-direction: column;
     max-width: 800px;
     padding: 15px;
-    border-radius: 5px;
+    /* border: 10px solid goldenrod; */ 
+    border-radius: 20px;
 }
 
 .stats {
@@ -36,7 +37,7 @@ body {
     background-color: #6d1e24;
 }
 
-.action .button {
+.button {
     font-family: "Inter", sans-serif;
     font-weight: 700;
     font-size: medium;
@@ -47,13 +48,17 @@ body {
     border-radius: 10px;
 }
 
+#lore {
+    display: none; /* Initially hide the element */
+    overflow: hidden; /* Ensure the content does not overflow */
+}
+
 .story {
-    background-color: #4d1419;
+    background-color: #77282f;
     display: flex;
     padding-left: 20px;
-    color: white;
+    color: rgb(238, 189, 189);
     font-family: "IBM Plex Serif", serif;
     font-weight: 500;
-    font-style: italic;
     letter-spacing: 2px;
 }
