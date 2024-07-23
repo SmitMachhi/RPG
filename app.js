@@ -1,15 +1,13 @@
+let lore = $("#lore");
+
 const btn1 = $("#btn1");
 const btn2 = $("#btn2");
 
-let playerStats = { xp: 0, hp: 100, gold: 20 };
+let playerStats = { xp: 10, hp: 100, gold: 20 };
 
 $.each(playerStats, function (stat, value) {
   $("#" + stat).text(value);
 });
-
-function xp(value) {
-  value = playerStats.xp;
-}
 
 const story = {
   chapter1: {
@@ -37,4 +35,8 @@ $(document).ready(function () {
     $(element).css("display", "none");
   }
   cssHide(btn2);
+});
+
+btn1.click(function () {
+  $("#xp").html(playerStats.xp);
 });
