@@ -57,7 +57,12 @@ start.click(function () {
 
 function chapter1() {
   lore.html(story.chapter1.line).slideDown(2000);
-  setInterval((cssShow(btn1), cssShow(btn2)), 3000);
+
+  setInterval(function () {
+    cssShow(btn1);
+    cssShow(btn2);
+  }, 5000);
+
   btn1.text(story.chapter1.choices[0].text);
   btn2.text(story.chapter1.choices[1].text);
 }
