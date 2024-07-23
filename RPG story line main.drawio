@@ -1,0 +1,275 @@
+<mxfile host="app.diagrams.net" modified="2024-07-20T15:27:31.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="n0Ez4iU0zB3R28-SbkvX" version="24.7.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="3318" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Chapter 1:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;The protagonist, Alex, is a young adventurer living in the peaceful village of Eldoria.&lt;/li&gt;&lt;li&gt;One day, a mysterious stranger arrives with tales of a great evil rising in the distant lands of Noxterra.&lt;/li&gt;&lt;li&gt;The stranger gives Alex a choice: stay in Eldoria and ignore the threat or embark on a journey to defeat the evil.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1170" y="10" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Option 1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-610" y="10" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Game Over" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-460" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Option 2" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-610" y="130" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="U52sJqKJljBWTszF1pLO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Gain 50XP, start the adventure" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-460" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-3" target="U52sJqKJljBWTszF1pLO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-3" target="U52sJqKJljBWTszF1pLO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-3" value="&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Chapter 2:&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Alex leaves Eldoria and ventures into the Whispering Woods, a place known for its dangers and mysteries.&lt;/li&gt;&lt;li&gt;As night falls, Alex must decide whether to set up camp or press on through the night.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="90" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-5" target="U52sJqKJljBWTszF1pLO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-5" value="Option 1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="70" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-6" target="U52sJqKJljBWTszF1pLO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-6" value="Option 2" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-8" target="U52sJqKJljBWTszF1pLO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-8" value="Hp +10&lt;br&gt;Gold -20" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-10" target="U52sJqKJljBWTszF1pLO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-10" value="HP -15&lt;div&gt;XP +30&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-13" target="U52sJqKJljBWTszF1pLO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-13" value="The night passes uneventfully, and Alex wakes up refreshed and ready to continue the journey." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-14" target="U52sJqKJljBWTszF1pLO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-14" value="Alex trudges through the night, facing various minor threats and obstacles, but learns valuable lessons." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="160" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-17" target="U52sJqKJljBWTszF1pLO-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="65" />
+              <mxPoint x="1350" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-17" value=" Alex stumbles upon a group of travelers setting up their camp, who offer help in exchange for gold or a promise of future assistance." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1065" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-18" target="U52sJqKJljBWTszF1pLO-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1260" y="230" />
+              <mxPoint x="1350" y="230" />
+              <mxPoint x="1350" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-18" value="Alex reaches a clearing and spots a band of travelers breaking camp. They notice Alex&#39;s determination and offer assistance, either for gold or a promise of future he" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="150" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-21" target="U52sJqKJljBWTszF1pLO-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-21" target="U52sJqKJljBWTszF1pLO-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Chapter 3:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;&quot;&gt;In the Whispering Woods, Alex encounters a band of travelers who offer help in exchange for gold or decides to face the trials alone.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;The travelers can provide valuable assistance, but trust is an issue.&lt;/li&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1390" y="100" width="450" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U52sJqKJljBWTszF1pLO-41" target="U52sJqKJljBWTszF1pLO-44" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-41" value="Option 1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1910" y="70" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" source="U52sJqKJljBWTszF1pLO-43" target="U52sJqKJljBWTszF1pLO-45" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-43" value="Option 2" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1910" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-44" target="U52sJqKJljBWTszF1pLO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-44" value="Gold -50&lt;div&gt;XP +100&lt;/div&gt;&lt;div&gt;HP +20&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2050" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-45" target="U52sJqKJljBWTszF1pLO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-45" value="Gold +50&lt;div&gt;HP -30&lt;/div&gt;&lt;div&gt;XP +50&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2050" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-48" target="U52sJqKJljBWTszF1pLO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-48" value="The travelers guide Alex safely through the Whispering Woods, sharing valuable knowledge and skills." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2240" y="70" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-49" target="U52sJqKJljBWTszF1pLO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-49" value="Alex navigates the Whispering Woods with grit and determination, facing and overcoming various obstacles." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2240" y="200" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-50" target="U52sJqKJljBWTszF1pLO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-50" value="&lt;li&gt;&lt;strong&gt;Arrival at Noxterra&#39;s Edge:&lt;/strong&gt;&amp;nbsp;Alex, now more experienced but weary, reaches the ancient ruins rumored to house the legendary weapon.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Event:&lt;/strong&gt;&amp;nbsp;Standing before the ruins, Alex must decide whether to seek the weapon immediately or gather more information from a nearby village.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2630" y="200" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-51" target="U52sJqKJljBWTszF1pLO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-51" value="&lt;li&gt;&lt;strong&gt;Arrival at Noxterra&#39;s Edge:&lt;/strong&gt; The travelers bid Alex farewell, providing information about the ancient ruins where the legendary weapon is hidden.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Event:&lt;/strong&gt; Alex stands before the ruins and faces the decision to either seek the weapon immediately or gather more information from a nearby village.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2630" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-50" target="U52sJqKJljBWTszF1pLO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-69" target="U52sJqKJljBWTszF1pLO-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3340" y="164.82758620689663" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-69" target="U52sJqKJljBWTszF1pLO-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-69" value="&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CHAPTER 4&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Alex reaches the edge of Noxterra and learns about the legendary weapon needed to defeat the great evil, hidden in the ancient ruins.&lt;/li&gt;&lt;li&gt;Alex must choose to seek the weapon immediately or gather more information from a nearby village.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3000" y="100" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U52sJqKJljBWTszF1pLO-87" target="U52sJqKJljBWTszF1pLO-90" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-87" value="Option 1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3378" y="70" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-89" target="U52sJqKJljBWTszF1pLO-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-89" value="Option 2" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3378" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-90" target="U52sJqKJljBWTszF1pLO-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-90" value="XP +100&lt;div&gt;HP -40&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3518" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-91" target="U52sJqKJljBWTszF1pLO-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-91" value="Gold +50&lt;div&gt;XP +30&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3518" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-96" target="U52sJqKJljBWTszF1pLO-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-96" value="Alex finds the legendary weapon after navigating the treacherous ruins and overcoming numerous obstacles." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3720" y="70" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-97" value="Armed with the information gathered from the village, Alex approaches the ruins with a better understanding of the dangers within." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3720" y="200" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-102" target="U52sJqKJljBWTszF1pLO-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-102" value="&lt;li&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Weapon Acquired:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; With the legendary weapon in hand, Alex feels a surge of power and confidence.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Event:&lt;/strong&gt; As Alex prepares to leave the ruins, a powerful guardian emerges, blocking the exit. Alex must now decide whether to confront the guardian directly or find another way around it.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4090" y="-20" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-103" target="U52sJqKJljBWTszF1pLO-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4430" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-103" value="&lt;li&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Preparation:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Using the knowledge gained, Alex successfully navigates the ruins and acquires the legendary weapon with fewer injuries.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Event:&lt;/strong&gt; As Alex leaves the ruins, a powerful guardian appears, challenging Alex to a final trial. Alex must choose whether to confront the guardian directly or find another way to bypass it.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4090" y="200" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-97" target="U52sJqKJljBWTszF1pLO-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-106" target="U52sJqKJljBWTszF1pLO-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4930" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-106" value="&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CHAPTER 5&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Armed with the legendary weapon, Alex reaches the heart of Noxterra where the great evil resides.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;The final choice is to attack the evil head-on or use the power of the weapon strategically.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4520" y="100" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-110" target="U52sJqKJljBWTszF1pLO-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-110" value="Option 1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4940" y="70" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-112" target="U52sJqKJljBWTszF1pLO-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-112" value="Option 2" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4940" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-113" target="U52sJqKJljBWTszF1pLO-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-113" value="&lt;strong&gt;Attack Head-On:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Victory if HP and XP are sufficient; gain 500 Gold and win the game, or lose if stats are too low.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5080" width="490" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-114" value="&lt;strong&gt;Use Strategy:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Gain 300 XP (for clever strategy) and win the game, but lose 200 Gold (cost of strategic resources).&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5080" y="200" width="490" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-119" value="Game over if low XP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5650" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-121" value="WIN 🥳" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5650" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U52sJqKJljBWTszF1pLO-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U52sJqKJljBWTszF1pLO-114" target="U52sJqKJljBWTszF1pLO-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
