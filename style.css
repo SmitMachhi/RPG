@@ -1,64 +1,69 @@
 body {
-    background-color: rgb(12, 6, 29);
+  background-color: rgb(12, 6, 29);
 }
 
 .top {
-    background-color: #2b1717;
-    padding-left: 10px;
+  background-color: #2b1717;
+  padding-left: 10px;
 }
 
 .container {
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    max-width: 800px;
-    padding: 15px;
-    /* border: 10px solid goldenrod; */ 
-    border-radius: 20px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  padding: 15px;
+  /* border: 10px solid goldenrod; */
+  border-radius: 20px;
 }
 
 .stats {
-    display: inline-flex;
-    color: rgba(255, 255, 255, 0.863);
-    font-family: "Inter", sans-serif;
-    align-items: first baseline;
+  display: inline-flex;
+  color: rgba(255, 255, 255, 0.863);
+  font-family: "Inter", sans-serif;
+  align-items: first baseline;
 }
 
 .points {
-    padding-left: 5px;
-    padding-right: 20px;
+  padding-left: 5px;
+  padding-right: 20px;
 }
 
 .action {
-    padding: 20px;
-    padding-left: 10px;
-    display: flex;
-    gap: 50px;
-    background-color: #6d1e24;
+  padding: 20px;
+  padding-left: 10px;
+  display: flex;
+  gap: 50px;
+  background-color: #6d1e24;
+}
+
+div.action {
+  height: 50px;
 }
 
 .button {
-    font-family: "Inter", sans-serif;
-    font-weight: 700;
-    font-size: medium;
-    align-items: center;
-    padding: 10px;
-    color: bisque;
-    background-color: #151515;
-    border-radius: 10px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: medium;
+  align-items: center;
+  padding: 10px;
+  color: bisque;
+  background-color: #151515;
+  border-radius: 10px;
+  height: auto;
 }
 
 #lore {
-    display: none; /* Initially hide the element */
-    overflow: hidden; /* Ensure the content does not overflow */
+  display: none; /* Initially hide the element */
+  overflow: hidden; /* Ensure the content does not overflow */
 }
 
 .story {
-    background-color: #77282f;
-    display: flex;
-    padding-left: 20px;
-    color: rgb(238, 189, 189);
-    font-family: "IBM Plex Serif", serif;
-    font-weight: 500;
-    letter-spacing: 2px;
+  background-color: #77282f;
+  display: flex;
+  padding-left: 20px;
+  color: rgb(238, 189, 189);
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 500;
+  letter-spacing: 2px;
 }
